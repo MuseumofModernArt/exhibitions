@@ -23,11 +23,11 @@ ConstituentID      | Number  | A unique number that identifies constituents with
 ConstituentType             | String       | Type of constituent, usually Individual or Institution (organization)| Individual
 DisplayName      | String         |  The full proper reading format of a constituent name. | Paul Gauguin
 AlphaSort           | String         | The form of the constituent name for correct alphabetization.  | Gauguin Paul
-FirstName            | String      | The individual’s first name, when known. | Paul
+FirstName            | String      | The individual’s first name, when known. | Alfred
 MiddleName             | String    | The individual’s middle name or initial, when known. | H.
-LastName          | String         | The individual’s last name, when known. | Gauguin
+LastName          | String         | The individual’s last name, when known. | Barr
 Suffix                | String         |  The individual’s name suffix, when present.    | Jr.
-Institution        | String         |  Additional name field for Institutions.  | 
+Institution        | String         |  Additional name field for Institutions.  | Miller Furniture Co., Herman
 Nationality         | String         |  Accepted country of identification, often distinct from country of origin. | French
 ConstituentBeginDate | Number | Birth year of an individual or an institution’s year of origin. | 1848
 ConstituentEndDate | Number | Death year of an individual or an institution’s year of termination. | 1903
