@@ -35,7 +35,9 @@ ArtistBio | String | Text display of nationality with birth and death years. | F
 Gender | String | Gender identification of an individual. | Female
 VIAFID | Number | Unique identifier from the Virtual International Authority File (VIAF) | 27064953
 WikidataID | String | Unique identifier from Wikidata, Wikipedia, and other Wikimedia resources. | Q37693
-ULANID | Number | Unique identifier from the Getty Research Institute’s Union List of Artists Names (ULAN). | 500011421
+ULANID | Number | Unique identifier from the Getty Research Institute’s Union List of Artist Names (ULAN). | 500011421
+ConstituentURL | String | Web address for the artist on MoMA.org. | moma.org/artists/2098 
+
 
 
 ## Museum Directors and Department Heads Dataset
